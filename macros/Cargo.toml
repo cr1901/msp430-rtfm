@@ -10,6 +10,7 @@ syn = "0.11.11"
 
 [dependencies.rtfm-syntax]
 git = "https://github.com/japaric/rtfm-syntax"
+rev = "631e4b044481ae23e40951ebf707b02d44db9daf"
 
 [lib]
 proc-macro = true
